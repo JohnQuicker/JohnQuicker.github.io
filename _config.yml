@@ -1,2 +1,3 @@
 name: John Quicker, learn coding the hard way.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
