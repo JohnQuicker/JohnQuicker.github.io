@@ -31,5 +31,5 @@ exclude:
   - Gemfile.lock
 name: John Quicker, learn coding the hard way.
 permalink: /blog/:year/:month/:day/:title
-source:      _source
-destination: _deploy
+# source:      _source
+# destination: _deploy
