@@ -16,8 +16,8 @@
 title: John Quicker
 email: johnquicker@163.com
 description: Mechanical to Programmer, the coding path from hardware to software.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://johnquicker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: johnquicker
 github_username:  johnquicker
 
